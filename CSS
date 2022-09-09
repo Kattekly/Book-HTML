@@ -42,3 +42,19 @@ caption {
  font-style: italic;
  padding-top: 8px;
 }
+.center {
+text-align: center;
+}
+
+.pravo {
+text-align: right;
+}
+
+
+th {
+ background-color: #cc6600;
+}
+
+.cellcolor {
+ background-color: #fcba7a;
+}
